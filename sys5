@@ -6,3 +6,11 @@ top -d 5 | head -n12
 
 sleep 1
 exit
+
+
+
+
+
+
+Receiving syntax error for line 5. 
+Instead of using Top we could use ps -eo %cpu
